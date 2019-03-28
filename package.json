@@ -1,6 +1,6 @@
 {
   "name": "shadowsocks-heroku",
-  "version": "0.9.10",
+  "version": "0.9.11",
   "dependencies": {
     "minimist": "^1.2.0",
     "https-proxy-agent": "^1.0.0",
